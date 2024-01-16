@@ -1,0 +1,21 @@
+@import "../../app.scss";
+
+.navbar {
+  height: 0px;
+
+
+
+    @include mobile {
+     
+    }
+.bg{
+  @include mobile {
+    width: 100%;
+   }
+
+}
+  
+
+
+  }
+
